@@ -1,1 +1,2 @@
-flash
+#forbidden_info
+flase
